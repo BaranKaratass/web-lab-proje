@@ -32,3 +32,23 @@ p {
   margin: 0.5em 0;
   font-weight: 500;
 }
+
+.info-card {
+  text-align: left;
+  border-bottom: 2px dashed #bdc3c7;
+  padding-bottom: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.bio-card h3 {
+  color: #2980b9;
+  font-size: 1.4em;
+  margin-bottom: 0.5rem;
+}
+
+.bio-card p {
+  font-size: 1em;
+  line-height: 1.6;
+  font-style: italic;
+  color: #7f8c8d;
+}
