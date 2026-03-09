@@ -1,15 +1,29 @@
-# WebLabProje (weblabtest)
+# Web LAB-1 - Hello Project
 
-Bu proje Web Tasarımı ve Programlama dersindeki Laboratuvar Uygulamalarının (LAB-1) ilk aşamasıdır.
+## Hakkinda
+Bu proje, Web Tasarimi ve Programlama dersi LAB-1 kapsaminda
+Vite + React + TypeScript kullanilarak olusturulmustur.
 
-## Proje Detayları
-- **Öğrenci:** Baran
-- **Öğrenci No:** 230541121
-- **Altyapı:** React + TypeScript + Vite
+## Gelistirici
+- **Ad Soyad:** Baran Karatas
+- **Ogrenci No:** 230541121
 
-## Projeyi Çalıştırma
-Projeyi yerel bilgisayarınızda çalıştırmak için:
-1. Gerekli kütüphaneleri yükleyin: `npm install`
-2. Geliştirme sunucusunu başlatın: `npm run dev`
+## Kullanilan Teknolojiler
+- React 18
+- TypeScript
+- Vite
 
-Tarayıcınızda [http://localhost:5173/](http://localhost:5173/) adresine giderek çıktıyı görebilirsiniz.
+## Kurulum
+```bash
+npm install
+```
+
+## Calistirma
+```bash
+npm run dev
+```
+
+Tarayicida http://localhost:5173 adresini ac.
+
+## Ekran Goruntusu
+*(Ekran goruntusunu buraya ekle)*
